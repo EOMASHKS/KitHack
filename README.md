@@ -1,4 +1,10 @@
-<p align="center">
+<apt update
+apt install python3 python3-pip
+git clone https://github.com/AdrMXR/KitHack.git
+cd KitHack
+bash install.sh
+python3 KitHack.py
+kithackp align="center">
 <img src="https://github.com/AdrMXR/KitHack/blob/master/images/banner.png" title="KitHack">
 </p>
 
